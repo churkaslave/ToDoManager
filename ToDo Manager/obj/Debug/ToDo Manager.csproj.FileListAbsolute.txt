@@ -1,0 +1,7 @@
+D:\Тутор\ToDo Manager\bin\Debug\ToDo Manager.exe.config
+D:\Тутор\ToDo Manager\bin\Debug\ToDo Manager.exe
+D:\Тутор\ToDo Manager\bin\Debug\ToDo Manager.pdb
+D:\Тутор\ToDo Manager\obj\Debug\ToDo Manager.csproj.AssemblyReference.cache
+D:\Тутор\ToDo Manager\obj\Debug\ToDo Manager.csproj.CoreCompileInputs.cache
+D:\Тутор\ToDo Manager\obj\Debug\ToDo Manager.exe
+D:\Тутор\ToDo Manager\obj\Debug\ToDo Manager.pdb
